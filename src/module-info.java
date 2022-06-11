@@ -1,0 +1,3 @@
+module Calculation {
+	exports calculation;
+}
